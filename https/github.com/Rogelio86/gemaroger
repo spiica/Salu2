@@ -1,0 +1,6 @@
+echo off
+cls
+color 7
+echo +++Hola german...+++
+echo Pulse cualquier tecla para salir
+pause>nul
